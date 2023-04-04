@@ -1,5 +1,5 @@
 # 1112資料庫_PROJECT1_GROUP7
-一套使用Flask開發的網路書店系統，後端使用Oracle資料庫
+一套使用Flask開發的圖書館借閱系統，後端使用Oracle資料庫
 <br>
 
 ## 功能
